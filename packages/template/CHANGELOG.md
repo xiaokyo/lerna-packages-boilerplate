@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0-beta.0](https://github.com/xiaokyo/lerna-packages-boilerplate/compare/@xiaokyo/template@1.1.0-alpha.0...@xiaokyo/template@1.1.0-beta.0) (2022-01-20)
+
+
+### Features
+
+* **root:** test prerelease ([4c26554](https://github.com/xiaokyo/lerna-packages-boilerplate/commit/4c26554e8b1fe88dd04d440dcb6ff63ff78f3ced))
+
+
+
+
+
 # 1.1.0-alpha.0 (2022-01-20)
 
 
