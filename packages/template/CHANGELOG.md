@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1-beta.0](https://github.com/xiaokyo/lerna-packages-boilerplate/compare/@xiaokyo/template@1.1.0-beta.1...@xiaokyo/template@1.2.1-beta.0) (2022-01-20)
+
+
+### Bug Fixes
+
+* **root:** beta ([8471736](https://github.com/xiaokyo/lerna-packages-boilerplate/commit/847173683fd216e2d6b07bc10d3564b92f41d162))
+
+
+
+
+
 # [1.1.0-beta.1](https://github.com/xiaokyo/lerna-packages-boilerplate/compare/@xiaokyo/template@1.1.0-beta.0...@xiaokyo/template@1.1.0-beta.1) (2022-01-20)
 
 **Note:** Version bump only for package @xiaokyo/template
