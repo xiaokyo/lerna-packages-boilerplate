@@ -17,7 +17,7 @@
     "version": {
       "push": true,
       "conventionalCommits": true,
-      "allowBranch": "master",
+      "allowBranch": ["master", "dev"],
       "message": "chore(root): publish"
     },
     "changelogPreset": {
